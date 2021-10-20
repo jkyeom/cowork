@@ -6,6 +6,6 @@ public class HelloChoiseonyoung {
 	 * @author 최선영
 	 */
 	public void hoo() {
-		
+		System.out.println("^^...");
 	}
 }
